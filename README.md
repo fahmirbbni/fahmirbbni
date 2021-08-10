@@ -6,4 +6,3 @@
 - 💬 Ask me about Vue.js or React Native
 - 📫 How to reach me: instagram : fhmiieu
 - ⚡ Fun fact: i really like to play football
---> is there anything else you want to know about me?
