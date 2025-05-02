@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on any platform 🤟
 - 🤔 please teach me about Design  
 - 💬 Ask me about Vue.js or React Native
-- 📫 How to reach me: instagram : fhmiieu
+- 📫 How to reach me: instagram : fahmirbbn
 - ⚡ Fun fact: i really like to play football
